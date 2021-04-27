@@ -1,2 +1,6 @@
 # Define the variable board below.
-row = [" ", " ", " "]
+puts   |   |
+puts -----------      
+puts   |   |
+puts -----------   
+puts   |   |
